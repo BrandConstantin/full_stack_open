@@ -6,4 +6,5 @@
 - 02 - CSS 3
 - 03 - Forms
 - 04 - Diagram for "nota"
-
+- 05 - Diagram for "spa"
+- 06 - Diagram for "new nota for spa"
