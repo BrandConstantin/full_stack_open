@@ -1,6 +1,3 @@
-
-  
-
   sequenceDiagram
     participant Client
     participant Server
@@ -27,13 +24,13 @@
         activate Server
         Server-->>Client: the JavaScript file
         deactivate Server
+
+        Note right of Client: The browser starts executing the JavaScript code that fetches the JSON from the server
+
+        Client->>Server: GET https://studies.cs.helsinki.fi/exampleapp/spa
+        activate Server
+        Server-->>Client: Return JSON object
+        deactivate Server
+
+        Note right of Client: The browser executes the callback function that renders the notes
     end
-    
-    Note right of Client: The browser starts executing the JavaScript code that fetches the JSON from the server
-
-    Client->>Server: GET https://studies.cs.helsinki.fi/exampleapp/spa
-    activate Server
-    Server-->>Client: Retunr JSON object
-    deactivate Server
-
-    Note right of Client: The browser executes the callback function that renders the notes
