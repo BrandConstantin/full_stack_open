@@ -14,3 +14,7 @@ Start learning react:
 - 04 - Diagram for "nota"
 - 05 - Diagram for "spa"
 - 06 - Diagram for "new nota for spa"
+
+## part1
+- exercise courseinfo app
+    - create app with multiple components and props
