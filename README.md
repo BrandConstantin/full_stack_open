@@ -1,6 +1,12 @@
 # Full Stack Open Academy
 ### Access https://fullstackopen.com/es/
 
+## React
+Start learning react:
+- component
+- multiple component
+- props
+
 ## part0
 - 01 - HTML 5
 - 02 - CSS 3
