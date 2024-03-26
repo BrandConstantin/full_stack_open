@@ -3,9 +3,13 @@
 
 ## React
 Start learning react:
-- component
-- multiple component
+- componentes
+- multiple componentes
 - props
+- funciones auxiliares componentes
+- re-renderizar página
+- manejo eventos
+- pasar estado a componente hijos
 
 ## part0
 - 01 - HTML 5
