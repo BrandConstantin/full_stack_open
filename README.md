@@ -10,6 +10,9 @@ Start learning react:
 - re-renderizar página
 - manejo eventos
 - pasar estado a componente hijos
+- estados complejos
+- arrays
+- renderizado condicional
 
 ## part0
 - 01 - HTML 5
